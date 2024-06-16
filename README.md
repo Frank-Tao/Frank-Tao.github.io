@@ -1,5 +1,15 @@
 # Chirpy Starter
 
+In short, simply follow the steps below:
+
+Add the theme-gem to your Gemfile (gem "jekyll-theme-chirpy")
+add the theme to your _config.yml (correctly done already..)
+Run: bundle install (just to make sure Bundler is able to use it)
+Run: bundle exec jekyll serve
+
+<!-- markdownlint-disable-next-line -->
+# Powered by Chirpy Jekyll Theme
+
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
 [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
