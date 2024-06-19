@@ -8,7 +8,7 @@ date: 2019-08-07 20:55:00 +1000
 categories: [Jekyll, Tutorial]
 tags: [Jekyll]
 pin: true
-media_subpath: '/assets/20180807'
+media_subpath: '/assets/20190807'
 ---
 
 ## Prerequisites
