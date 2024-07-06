@@ -1,8 +1,8 @@
 ---
 title: Carpe Diem - Seize the Day!
 date: 2024-06-12 12:34:00 +1000
-categories: [Toastmasters, Life]
-tags: [Life]
+categories: [Life]
+tags: [Life, Toastmasters]
 pin: true
 image:
   path: /assets/20240612/balance-life-is-art.jpg
