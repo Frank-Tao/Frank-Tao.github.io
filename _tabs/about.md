@@ -1,10 +1,10 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 9
 ---
 
-Hi, I'm **Frank Tao**—a Melbourne-based data, AI, and full-stack engineer who enjoys turning vague product bets into measured outcomes. I created this site to collect thoughts, engineering write-ups, and experiments that do not fit inside a tweet.
+Hi, I'm **Frank Tao** — a Melbourne-based data, AI, and full-stack engineer who enjoys turning vague product bets into measured outcomes. I created this site to collect thoughts, engineering write-ups, and experiments that do not fit inside a tweet.
 
 ## What I'm working on
 - Designing resilient data platforms that keep analytics trustworthy as companies scale
